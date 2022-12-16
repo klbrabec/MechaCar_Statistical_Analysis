@@ -5,7 +5,7 @@
 ## Linear Regression to Predict MPG 
 
 ### Results
-![Linear Regression Results] (https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/lmimage.JPG)
+![Linear Regression Results](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/lmimage.JPG)
 
 ### Questions 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -35,7 +35,7 @@ When looked at as a group - all manufacturing locations meet the design specific
 ## T-Tests on Suspension Coils 
 ### Results 
 #### All Lots 
-![ALL Lots TTest] (https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_all.JPG)
+![ALL Lots TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_all.JPG)
 #### Lot One 
 ![Lot 1 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/commit/360534582fde1580b21f47b1db7b741092db9803)
 #### Lot Two 
