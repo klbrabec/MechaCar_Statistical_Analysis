@@ -74,12 +74,12 @@ There are multiple factors used to determine total cost of ownership, maintenanc
 -- The lot summary dataframe has the mean, median, variance, and standard deviation for each manufacturing lot individually (10 pt) (done)
 --There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually (5 pt) (done)
 
-####### T-Tests on Suspension Coils (20 points)
+###### T-Tests on Suspension Coils (20 points)
 -- An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population (5 pt) (done)
 -- An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt) (done)
 -- There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt) (done)
 
-####### Design a Study Comparing the MechaCar to the Competition (20 points)
+###### Design a Study Comparing the MechaCar to the Competition (20 points)
 -- A metric to be tested is mentioned (5 pt) (done)
 -- A null hypothesis or an alternative hypothesis is described (5 pt) (done)
 -- A statistical test is described to test the hypothesis (5 pt) (done)
