@@ -12,12 +12,12 @@
 R calculated that the variables that provide a non-random amount of variance to the MPG values are ground_clearance (5.21e-08)  and vehicle_length (2.60e-12). Both have been assigned a significance code of 0.  
 
 #### Is the slope of the linear model considered to be zero?  Why or why not? 
-Due to the disparate types of data that are being compared in this model, it is not possible to determine if the slope is zero.   However, reviewing the individual data elements (Length, weight, clearance, AWD and spoiler angle) should be able to identify the slope for that particular model. 
+All individual dimensions within this linear model are non zero slopes (with the exception of the Intercept which is not a slope at all) 
 
 #### Does this linear model predict mpg of MechaCar prototypes effectively?  Why or why not?
-This model would allow us to predict the mpg of future MechaCar prototypes.  This assumption can be made because the R-squared value is .7149 and Adjusted R-squared value is .6825.  These values indicate that 71.49% of values will fit within the linear regression models (68.25% of adjusted values).  
+This model would allow us to predict the mpg of future MechaCar prototypes.  This assumption can be made because the R-squared value is .7149 and Adjusted R-squared value is .6825.  These values indicate that 71.49% of values will fit within the linear regression models (68.25% of adjusted values).  However, the model would be more effective if the R values were higher (.9000 or higher would be optimal) 
 
-## Summary Statistics on Suspsension Coils 
+## Summary Statistics on Suspension Coils 
 
 ### Results 
 #### Total Summary 
@@ -53,4 +53,4 @@ The hypothesis of the study would be that owning a MechaCar would cost less for 
 ### Selection of Testing Models 
 Using a multiple linear regression model and related summary statistics, analyze if there is a relationship between the brand of car and the cost of ownership for five years.
 ### Data used for study 
-There are multiple factors used to determine total cost of ownership, maintenance costs (gas types, oil changes, tires, taxes and fees) and insurance costs (various coverage models) are most likely to be used along with miles per gallon as part of the selection process.  
+There are multiple factors used to determine total cost of ownership, maintenance costs (horsepower, gas types, oil changes, tires, taxes and fees) and insurance costs (various coverage models) are most likely to be used along with miles per gallon as part of the selection process.  
