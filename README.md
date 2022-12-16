@@ -37,7 +37,7 @@ When looked at as a group - all manufacturing locations meet the design specific
 #### All Lots 
 ![ALL Lots TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_all.JPG)
 #### Lot One 
-![Lot 1 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/commit/360534582fde1580b21f47b1db7b741092db9803)
+![Lot 1 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/t-test_lot1.JPG))
 #### Lot Two 
 ![Lot 2 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_lot2.JPG)
 #### Lot Three
