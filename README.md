@@ -5,7 +5,7 @@
 ## Linear Regression to Predict MPG 
 
 ### Results
-(INCLUDE IMAGE OF RESULTS HERE lmimage)
+![Linear Regression Results] (https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/lmimage.JPG)
 
 ### Questions 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -21,10 +21,10 @@ This model would allow us to predict the mpg of future MechaCar prototypes.  Thi
 
 ### Results 
 #### Total Summary 
-(INCLUDE IMGE OF RESULTS HERE - TOTAL SUMMARY)
+![Total Summary](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/totalsummary.JPG) 
 
 #### Lot Summary
-(INCLUDE IMAGE OF RESULTS HERE - LOT SUMMARY)
+![Lot Summary](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/lotsummary.JPG)
 
 
 ### Questions 
@@ -35,13 +35,13 @@ When looked at as a group - all manufacturing locations meet the design specific
 ## T-Tests on Suspension Coils 
 ### Results 
 #### All Lots 
-INCLUDE IMAGE OF ALL 3 Lots here
+![ALL Lots TTest] (https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_all.JPG)
 #### Lot One 
-INCLUDE IMAGE OF LOT 1 
+![Lot 1 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/commit/360534582fde1580b21f47b1db7b741092db9803)
 #### Lot Two 
-INCLUDE IMAGE OF LOT 2 
+![Lot 2 TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_lot2.JPG)
 #### Lot Three
-INCLUDE IMAGE OF LOT 3 
+![Lot 3TTest](https://github.com/klbrabec/MechaCar_Statistical_Analysis/blob/main/T-test_lot3.JPG)
 
 ### Summary 
 As discussed in the summary statistics for the suspension coils, only lot 3 was out of compliance with the design specifications for the number of pounds per square inch for the coils.  The mean of the PSI values is 1496.14.
