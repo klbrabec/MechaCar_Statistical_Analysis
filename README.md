@@ -63,7 +63,7 @@ There are multiple factors used to determine total cost of ownership, maintenanc
 
 ### Rubric Review 
 #### Linear Regression to Predict MPG (30 points)
-###### The MechaCar_mpg.csv file is imported and read into a dataframe (5 pt) (done)
+-- The MechaCar_mpg.csv file is imported and read into a dataframe (5 pt) (done)
 ###### An RScript is written for a linear regression model to be performed on all six variables (10 pt) (done)
 ###### An RScript is written to create the statistical summary of the linear regression model with the intended p-values (10 pt) (done)
 ###### There is a summary that addresses all three questions (5 pt) (done)
